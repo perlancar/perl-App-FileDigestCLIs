@@ -2,3 +2,4 @@ App-FileDigestCLIs-*
 .build
 *~
 nytprof*
+.DS_Store
